@@ -2,4 +2,6 @@
 
 ToB FE (React/TS) · MJJ · Hackintosh · Self-hosting
 
-Blog: undefined
+**Try:**
+```bash
+curl hi.noio.top
